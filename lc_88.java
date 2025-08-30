@@ -21,3 +21,5 @@ class Solution {
         }
     }
 }
+// Time Complexity: O(m + n) where m and n are the lengths of nums1 and nums2 respectively.
+// Space Complexity: O(1) as we are merging in place without using any extra space.

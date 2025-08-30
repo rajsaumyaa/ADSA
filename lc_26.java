@@ -12,3 +12,5 @@ class Solution {
         return i+1;
     }
 }
+// Time Complexity: O(N) where N is the length of the array, as we traverse the array once.
+// Space Complexity: O(1) as we are using only a constant amount of extra space.

@@ -14,3 +14,5 @@ class Solution {
         return nums[left];
     }
 }
+// Time Complexity: O(log N) as we are halving the search space in each iteration.
+// Space Complexity: O(1) as we are using only a constant amount of extra space.
